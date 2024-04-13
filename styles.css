@@ -5,6 +5,7 @@ body{
     font-family: 'Segoe UI', Arial, sans-serif;
     background-color: #e2e8ec;
     color: #272727;
+    text-align: center;
 }
 
 #main{
@@ -14,16 +15,12 @@ body{
     background: #9DB2BF;
 }
 
-header{
-    text-align: center;
-}
-
-header h1{
+#main h1{
     font-size: 2.5rem;
     margin-bottom: 0;
 }
 
-header p{
+#main p{
     font-weight: 600;
 }
 
